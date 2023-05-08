@@ -1,11 +1,10 @@
-## Hi, I'm Dominik Żmudziak.
+## Hi, I'm Dominik!
 
-I am a 5th year student of CS, currently trying to start my IT career.
+I am a full stack developer, specializing in NextJs, React, Node and GraphQL.
 
-- 🔭 I’m currently looking for a job.
+- 🔭 I’m looking for a job opportunities.
 - 🌱 I learn as much as i can, trying to get deep knowledge of web development
 - 👯 I’m looking to collaborate on any open-source project!
-- ⚡ Trying to finish my master's thesis soon.
 
 <br/>
 
@@ -13,10 +12,12 @@ I am a 5th year student of CS, currently trying to start my IT career.
 
 <br/>
 
-<img align="left" alt="java" width="50px" src="https://simpleicons.org/icons/java.svg" />
+
 <img align="left" alt="js" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" alt="c#" width="50px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="node" width="50px" src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png" />
+<img align="left" alt="kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="kubernetes" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" />
 
 <br/>
 
@@ -27,11 +28,10 @@ I am a 5th year student of CS, currently trying to start my IT career.
 <br/>
 
 <br/>
-
+<img align="left" alt="c#" width="50px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="node" width="50px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="kubernetes" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" />
+<img align="left" alt="java" width="50px" src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" />
 
 <br/>
 
@@ -43,7 +43,6 @@ I am a 5th year student of CS, currently trying to start my IT career.
 
 [<img align="left" alt="spring" width="50px" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" />][Spring]
 [<img align="left" alt="react" width="50px" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" />][React]
-[<img align="left" alt="gastsby" width="50px" src="https://pagepro.co/blog/wp-content/uploads/2019/12/gatsby-logo.png" />][Gatsby]
 
 <br/>
 
@@ -52,7 +51,6 @@ I am a 5th year student of CS, currently trying to start my IT career.
 <br/>
 
 [<img align="left" alt="unity" width="50px" src="https://simpleicons.org/icons/unity.svg" />][Unity]
-[<img align="left" alt="docker" width="50px" src="https://simpleicons.org/icons/docker.svg" />][Docker]
 [<img align="left" alt="kubernetes" width="50px" src="https://simpleicons.org/icons/kubernetes.svg" />][Kubernetes]
 
 <br/>
